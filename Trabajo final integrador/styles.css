@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2? family= Lato:wght@100 & display=swap');
+
+*{
+    font-family: 'lato' , sans-serif;
+    margin: 0%;
+    padding: 0;
+} 
+h1{
+    border: 1px dotted black;
+    padding: 28px;
+    margin: 30px;
+    font-weight:100;
+    color:gray
+}
+section fieldset{
+    font-weight: 400px;
+}
+#habilidades{
+    color: black;
+    font-size: 23px;
+    border: 7px solid beige;
+}
